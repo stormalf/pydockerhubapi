@@ -1,0 +1,4 @@
+{
+  "token_label": "My read only token",
+  "scopes": ["repo:read"]
+}

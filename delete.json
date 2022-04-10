@@ -1,0 +1,6 @@
+{
+  "dry_run": false,
+  "active_from": "2020-12-01T12:00:00Z",
+  "manifests": [{}],
+  "ignore_warnings": [{}]
+}
